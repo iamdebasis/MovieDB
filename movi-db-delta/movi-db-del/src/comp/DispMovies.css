@@ -1,0 +1,29 @@
+.body{
+    display: flex;
+}
+.outLine{
+    margin: auto;
+    width: 600px;
+    border: 3px;
+    background-color: gray;
+    display: flex;
+}
+.imgSt {
+    
+    width:"125";
+    height:"170"
+  }
+  
+  .img2 {
+    float: left;
+  }
+  .content{
+    width: 90%;
+    height: 100%;
+    font-size: 20px;
+    margin-left: 25px;
+  }
+
+  a:hover {
+    background-color: red;
+  }
