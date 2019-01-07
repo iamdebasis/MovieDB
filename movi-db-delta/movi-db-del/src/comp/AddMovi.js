@@ -121,7 +121,7 @@ class AddMovi extends Component {
     //console.log(this.state.DbData)
     return (
       <div >
-        <div>    //body of toast defined here 
+        <div>    
           <ToastContainer />
         </div>
 
